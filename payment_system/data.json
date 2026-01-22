@@ -1,0 +1,28 @@
+{
+    "Accounts" : [
+        {
+            "AccountTitle" : "Amna",
+            "AccountNumber" : "1555141",
+            "Balance" : 20000,
+            "Pin" : "1122"
+         },
+         {
+            "AccountTitle" : "Khadija",
+            "AccountNumber" : "1555142",
+            "Balance" : 30000,
+            "Pin" : "1555"
+         },
+         {
+            "AccountTitle" : "Habiba",
+            "AccountNumber" : "1555143",
+            "Balance" : 40000,
+            "Pin" : "2233"
+         },
+         {
+            "AccountTitle" : "Iqra",
+            "AccountNumber" : "1555144",
+            "Balance" : 50000,
+            "Pin" : "0000"
+         }
+    ]
+}
